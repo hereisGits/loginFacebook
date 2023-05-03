@@ -1,0 +1,127 @@
+
+body{ background-color:#f0f2f5 ;
+}
+
+.fb{
+color: #1c1e21;
+direction: ltr;
+line-height: 1.34;
+font-family: Helvetica, Arial, sans-serif;
+font-size: 12px;
+text-align: center;
+border: 0;
+height: 70px;
+margin: 20px;
+}
+
+form.main{
+    color: #1c1e21;
+    direction: ltr;
+    line-height: 1.34;
+    font-size: 12px;
+    text-align: center;
+    border: 1px solid #dddfe2;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    margin: auto;
+    padding: 0 0 14px 0;
+    width: 396px;
+    font-family: inherit;
+    
+
+}
+div.h{ 
+
+    font-size: large; 
+    padding: 24px 0 16px;
+    color: #1c1e21;
+    text-align: center;
+    line-height: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.input{
+    color: #1c1e21;
+    direction: ltr;
+    line-height: 1.34;
+    font-size: 12px;
+    text-align: center;
+    zoom: 1;
+    margin: auto;
+    padding: 6px 0;
+    width: 364px;
+    font-family: inherit;
+}
+input{
+    width:330px;
+    height: 22px;
+    padding:14px 16px 14px 16px;
+    border:1px solid#dddfe2;
+    border-radius:10px;
+    font-size: 17px;
+    line-height: 16px;
+}
+
+button{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 48px;
+    color:#ffffff;
+    height: 48px;
+    width:332px;
+    padding: 0px 16px 0px 16px;
+    background-color:#1977f2;
+    border-radius: 10px;
+    border: 1px solid #1977f2;
+    text-decoration: none;
+
+}
+.line{  font-size: 17px;
+    font-weight: 700;
+    line-height: 40px;
+    direction: ltr;
+    line-height: 1.34;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+    color: #115bbd;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif; 
+
+   
+}
+.next{
+    
+    text-align: center;
+    text-shadow: #dddfe2;
+    color: #ffffffbc;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 48px;
+    border: 1px solid #42b72a;
+    border-radius:10px;
+    background-color: #42b72a;
+    height: 48px;
+    width: 265px;
+    margin: 0 50px 0 50px;
+}
+.next:hover{
+   color: #ffffff;
+   
+}
+
+
+
+div.next{
+    color:rgb(31, 34, 222); 
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+
+
